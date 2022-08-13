@@ -168,6 +168,7 @@
       <materialref ref="G4_Al"/>
       <solidref ref="Neckdown"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="DetNo" auxvalue="800"/>
     </volume>
 
@@ -175,6 +176,7 @@
       <materialref ref="G4_Al"/>
       <solidref ref="Neckdown_DSpipe"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="DetNo" auxvalue="801"/>
     </volume>
 
@@ -183,6 +185,7 @@
       <materialref ref="G4_STAINLESS-STEEL"/>
       <solidref ref="Neckdown_bellows_1"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="DetNo" auxvalue="802"/>
     </volume> 
 
@@ -190,6 +193,7 @@
       <materialref ref="G4_STAINLESS-STEEL"/>
       <solidref ref="Neckdown_bellows_2"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="DetNo" auxvalue="803"/>
     </volume>
 
@@ -197,6 +201,7 @@
       <materialref ref="G4_STAINLESS-STEEL"/>
       <solidref ref="Neckdown_bellows_3"/>
       <auxiliary auxtype="DetNo" auxvalue="804"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
     </volume>
 
@@ -273,6 +278,7 @@
       <materialref ref="G4_Al"/>
       <solidref ref="SAMpipe"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="DetNo" auxvalue="805"/>
     </volume>
 
@@ -280,6 +286,7 @@
       <materialref ref="G4_Al"/>
       <solidref ref="neckdown_flange"/>
       <auxiliary auxtype="Color" auxvalue="Blue"/>
+      <auxiliary auxtype="SensDet" auxvalue="coilDet"/>
       <auxiliary auxtype="DetNo" auxvalue="806"/>
     </volume>
     
